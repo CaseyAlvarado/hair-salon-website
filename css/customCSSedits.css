@@ -1,0 +1,8 @@
+body#page-top::selection {
+background: red;}
+
+#page-top::-moz-selection {
+  background: blue; }
+
+#page-top::selection {
+  background: blue;}
